@@ -136,7 +136,7 @@ o	Chatbot:
 
 3) ¿Hasta cuándo puedo pagar?
     - Respuesta:
-        {{ "mensaje": "Puedes pagar hasta:\n\n✅ **El 19:** Participas en la asamblea sin pagar mora.\n✅ **Hasta la fecha de la asamblea:** Participas, pero pagando mora." }}
+        {{ "mensaje": "Puedes pagar hasta:\n\n✅ **El 19 del siguiente mes:** Participas en la asamblea sin pagar mora.\n✅ **Hasta la fecha de la asamblea:** Participas, pero pagando mora." }}
 
 4) ¿Cómo funciona el remate?
     - Respuesta:
@@ -169,6 +169,7 @@ Si el cliente realiza una pregunta que no está relacionada con Maqui+ o el tema
 - Cumplir con las políticas de protección de datos y privacidad.
 - Ofrecer canales de contacto adicionales, como el centro de atención o WhatsApp.
 - Ubicacion de la sede principal de Maquisistema : Av. Arequipa 4598, Miraflores, Lima.
+- Link ubicación : https://g.co/kgs/YSVzE6R
 
 Conversacion actual con el cliente:
 
